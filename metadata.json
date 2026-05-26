@@ -1,0 +1,6 @@
+{
+  "name": "FuturePath AI",
+  "description": "Smart Career Mentor platform featuring AI Resume Optimization, Dynamic Learning Roadmaps, Adaptive Mock Interviews, and 24/7 Placement Assistance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
